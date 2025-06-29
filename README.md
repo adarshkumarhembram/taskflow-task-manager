@@ -29,12 +29,4 @@
 | **AI Integration** | OpenAI API (GPT for task suggestions) |
 | **Environment** | Vite, .env, CORS |
 
----
 
-## 🛠️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/taskflow.git
-cd taskflow
