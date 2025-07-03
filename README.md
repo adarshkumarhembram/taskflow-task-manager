@@ -23,10 +23,5 @@
 | Tech | Description |
 |------|-------------|
 | **Frontend** | React.js, Tailwind CSS, Axios |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB (Mongoose ODM) |
-| **Authentication** | JWT (JSON Web Token) |
-| **AI Integration** | OpenAI API (GPT for task suggestions) |
-| **Environment** | Vite, .env, CORS |
-
+| 
 
