@@ -23,5 +23,5 @@
 | Tech | Description |
 |------|-------------|
 | **Frontend** | React.js, Tailwind CSS, Axios |
-| 
+
 
